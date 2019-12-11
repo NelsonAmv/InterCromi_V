@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InterCromi</string>
+    <string name="not_log_in">No se puede iniciar sesion</string>
+    <string name="revoke">revoke</string>
+    <string name="Bienvenido">Bienvenido:</string>
+    <string name="log_out">log_out</string>
+    <string name="not_close_session" />
+    <string name="not_revoke" />
+    <string name="not_firebase_auth" />
+</resources>

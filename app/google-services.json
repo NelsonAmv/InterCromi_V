@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498835017990",
+    "firebase_url": "https://intercromi.firebaseio.com",
+    "project_id": "intercromi",
+    "storage_bucket": "intercromi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498835017990:android:952c7d44479756c604ce87",
+        "android_client_info": {
+          "package_name": "com.namv.intercromi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498835017990-t28n30ttfkkq9rmi5jmorg4mnrre3k5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.namv.intercromi",
+            "certificate_hash": "65f11a38a4706d03be38e8c74c13ef5f9c3695db"
+          }
+        },
+        {
+          "client_id": "498835017990-169nv9ifubcad7bifhtn773h2j7rljc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4FJZyfOqUjRPj6XBh_nkkQOgdW0CN52I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498835017990-169nv9ifubcad7bifhtn773h2j7rljc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
